@@ -78,4 +78,12 @@ Background in B2B sales. Now applying that mindset to AI: if it doesn't save tim
 
 ---
 
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Evgeniy-Mikhailove/Evgeniy-Mikhailove/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 *Building tools that work, not tools that demo well.*
