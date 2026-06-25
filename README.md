@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&weight=500&size=25&duration=4000&pause=1000&color=FF8612&center=true&vCenter=true&width=500&height=60&lines=PROMPT+ENGINEERING++%F0%9F%A7%A0%2B%F0%9F%A4%96%3D%F0%9F%98%8E" alt="Typing SVG" />
+  </a>
+</p>
+
 ## Hey, I'm Evgeniy
 
 I build AI agent systems, automation pipelines, and tools that make AI actually useful in day-to-day work - not just chatbots, but real operational infrastructure.
@@ -75,6 +81,22 @@ Background in B2B sales. Now applying that mindset to AI: if it doesn't save tim
 
 [![Telegram](https://img.shields.io/badge/AI_Exoskelet-Channel-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/AI_Exoskelet)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Support_my_work-yellow?style=flat&logo=githubsponsors&logoColor=white)](https://yoomoney.ru/to/4100119297330016)
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Evgeniy-Mikhailove&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Mikhailove&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evgeniy-Mikhailove&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
