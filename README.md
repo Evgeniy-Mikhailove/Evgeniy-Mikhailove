@@ -95,7 +95,7 @@ Background in B2B sales. Now applying that mindset to AI: if it doesn't save tim
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evgeniy-Mikhailove&theme=high-contrast&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evgeniy-Mikhailove&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
