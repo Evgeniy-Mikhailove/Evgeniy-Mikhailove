@@ -58,6 +58,7 @@ Background in B2B sales. Now applying that mindset to AI: if it doesn't save tim
 | [multi-agent-orchestration](https://github.com/Evgeniy-Mikhailove/multi-agent-orchestration) | Parallel AI agent execution: Three-Tier Dispatch, Wave Execution, Review Gates | [![Stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/multi-agent-orchestration?style=social)](https://github.com/Evgeniy-Mikhailove/multi-agent-orchestration) |
 | [agent-development-framework](https://github.com/Evgeniy-Mikhailove/agent-development-framework) | Templates for building AI agents: file format, triggering patterns, system prompts | [![Stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/agent-development-framework?style=social)](https://github.com/Evgeniy-Mikhailove/agent-development-framework) |
 | [skill-lifecycle](https://github.com/Evgeniy-Mikhailove/skill-lifecycle) | Manage 800+ AI skills - auto-routing, usage tracking, evolution, 6-tier routing | [![Stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/skill-lifecycle?style=social)](https://github.com/Evgeniy-Mikhailove/skill-lifecycle) |
+| [rlm-claude-code-os](https://github.com/Evgeniy-Mikhailove/rlm-claude-code-os) | Claude Code OS - skill router, RLM harness, 20 core skills, one-command install | [![Stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/rlm-claude-code-os?style=social)](https://github.com/Evgeniy-Mikhailove/rlm-claude-code-os) |
 
 ### AI Workflow & Quality Tools
 
